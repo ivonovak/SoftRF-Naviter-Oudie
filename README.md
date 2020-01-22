@@ -15,6 +15,7 @@ Everything is documented on wiki page https://github.com/ivonovak/SoftRF-Naviter
 3. You must SAVE the settings in Oudie after made changes. Otherwise, it does not remember the setting and even forgets it after a while ...
 4. When selecting the FLARM device, select "Other", otherwise the Oudie will "freeze" !
 5. Oudie freezes even if the COM port is set incorrectly !
+6. I still have not barographic sensor installed on OGN tracker. I recommend install it on OGN tracker to get correct data!
 
 
 
