@@ -1,5 +1,5 @@
-# SoftRF-Naviter-Oudie
-Naviter Oudie(IGC) as a FLARM device - setting
+# Naviter Oudie(IGC) as a FLARM device - setting
+
 
 Many thanks to Lysupov ( https://github.com/lyusupov/SoftRF/wiki ) for working on SofRF project.
 
@@ -8,7 +8,7 @@ I have Naviter Oudie(IGC) connected to Prime Edition Mark II ( based on third-pa
 Everything is documented on wiki page https://github.com/ivonovak/SoftRF-Naviter-Oudie/wiki/Seting-SoftRF---Oudie(IGC)-as-a-FLARM-device
 
 
-Some recommendations :
+# Some recommendations :
 
 1. For OGN tracker I recommend firmware version 1.0.-rc7 and higher (when it will be ...), with 1.0.-rc6 it didnt work
 2. The baud rate on the Oudie COM port must be set to> = 19200. If it is lower, FLARM data is not transmitted !!
